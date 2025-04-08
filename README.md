@@ -24,4 +24,4 @@
 
 Sou desenvolvedor(a) focado(a) em **Front-end**, apaixonado(a) por **Desenvolvimento Web**.
 
-Atualmente, estou aprendendo **HTMl e CSS** e contribuindo para **um Projeto Futuramente!**
+Atualmente, estou aprendendo **HTML e CSS** e contribuindo para **um Projeto Futuramente!**
