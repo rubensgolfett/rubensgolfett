@@ -1,9 +1,9 @@
-<header>
+<header align="center">
     <h1>Hi there 👋 I'm Rubens 👨‍💻</h1>
     <p>A developer Full-Stack from Brazil learning various technologies for fun.</p>
 </header>
 
-<div class="center">
+<div align= "center">
 
 [![Rubens's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rubensgolfett&show_icons=true&theme=light-mode-only)](https://github.com/rubensgolfett/)
 
@@ -36,30 +36,3 @@
 
 **Linkedln**: <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US">Linkdin here"</a>
 </div>
-
-<style>
-
-@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-    :root {
-        --font01: "Kode Mono", monospace;
-        --font02: "Balsamiq Sans", sans-serif;
-    }
-
-    p {
-        font-family: var(--font02);
-    }
-
-    .center  {
-        padding: 10px;
-        text-align: center;
-    }
-
-    header {
-        text-align: center;
-        font-family: var(--font01);
-        font-weight: lighter;
-    }
-</style>
