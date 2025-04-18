@@ -1,9 +1,7 @@
-<header align="center">
-    <h1>Hi there 👋 I'm Rubens 👨‍💻</h1>
-    <p>A developer Full-Stack from Brazil learning various technologies for fun.</p>
-</header>
-
 <div align= "center">
+
+<h1>Hi there 👋 I'm Rubens 👨‍💻</h1>
+<p>A developer Full-Stack from Brazil learning various technologies for fun.</p>
 
 [![Rubens's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rubensgolfett&show_icons=true&theme=light-mode-only)](https://github.com/rubensgolfett/)
 
