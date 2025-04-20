@@ -1,4 +1,4 @@
-<div align= "center">
+9<div align= "center">
 
 <h1>Hi there 👋 I'm Rubens 👨‍💻</h1>
 <p>A developer Full-Stack from Brazil learning various technologies for fun.</p>
@@ -32,5 +32,5 @@
 
 **Email**: contatorubens000@gmail.com
 
-**Linkedln**: <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US">Linkdin here"</a>
+**Linkedln**: <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US">Linkdin here</a>
 </div>
