@@ -28,9 +28,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h2>📬 How to Contact Me?</h2>
-<p>You can send me a message via email or LinkedIn✉️</p>
+<p>You can send message on these social platforms</p>
 
-**Email**: contatorubens000@gmail.com
+  <a href="https://api.whatsapp.com/send?phone=54999763912&text=Hello Rubens" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%D148365?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank"></a>
 
-**Linkedln**: <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US">Linkdin here"</a>
+  <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <a href = "contatorubens000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  <a href="https://www.instagram.com/rubens.golfet/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
