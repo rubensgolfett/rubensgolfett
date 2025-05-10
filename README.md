@@ -12,12 +12,16 @@
 <p>I like learning new programming languages and exploring new frameworks🔎</p>
 
 <h2>🛠️ Tech Stack</h2>
+<!-- Não Existe Downloads: -->
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-7952B2?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- Existe Downloads:  -->
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://nodejs.org/pt/download)
+[![PHP](https://img.shields.io/badge/PHP-7952B2?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/downloads.php)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/downloads/)
 
 <h2>📬 How to Contact Me?</h2>
 <p>You can send message on these social platforms</p>
