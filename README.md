@@ -3,6 +3,8 @@
 <h1>Hi there 👋 I'm Rubens 👨‍💻</h1>
 <p>A developer Full-Stack from Brazil learning various technologies for fun.</p>
 
+<p>I'm on a Freelance Project Called <a href="https://haze-nexus.onrender.com" target="_blank">Haze</a></p>
+
 [![Rubens's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rubensgolfett&show_icons=true&theme=light-mode-only)](https://github.com/rubensgolfett/)
 
 <h2>📌 Top Languages I Use in My Projects</h2>
@@ -15,6 +17,7 @@
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-850afb?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
