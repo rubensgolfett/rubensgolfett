@@ -4,7 +4,7 @@
 ### Full-Stack Developer • Curious Learner • Creator from Brazil 🇧🇷
 
 💡 Passionate about building real-world projects, exploring frameworks, and learning through experimentation.  
-🚀 Currently working on my freelance project [**Haze-Nexus**](https://haze-nexus.onrender.com) — where I’m building a modern, scalable web platform.
+🚀 Currently working on my freelance project [**Haze-Nexus**](https://haze-nexus.onrender.com) — where I’m building a modern, scalable web and mobile platform.
 
 ---
 
@@ -27,6 +27,8 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 
@@ -37,10 +39,12 @@ I like challenges that make me grow, projects that test my focus, and feedback t
 I'm not chasing comfort — I'm chasing mastery.
 
 ---
+### 🚧 Images from my projects
+ ---
 
 ### 📬 Let’s Connect!
 
-<a href="https://api.whatsapp.com/send?phone=54999763912&text=Hello Rubens" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=54999763912&text=Hello Rubens!, I want to create a project!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/rubens-golfett/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:contatorubens000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/rubens.gdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
