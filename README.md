@@ -11,7 +11,7 @@ modern web development with mobile-first experiences.
 ## ⚡ About Me
 
 🔹 I learn by building — always shipping, experimenting and improving.
-🔹 Focused on JavaScript, TypeScript, React, React Native & Node.js.
+🔹 Focused on JavaScript, TypeScript, React & Node.js.
 🔹 Obsessed with performance, clean UI and seamless user experience.
 🔹 Currently growing my freelance presence and digital portfolio.
 
@@ -39,7 +39,6 @@ new Developer().sayHi();
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAA6?style=for-the-badge&logo=react&logoColor=black)
 
 ## ⚙️ GitHub Analytics
 
