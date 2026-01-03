@@ -5,13 +5,13 @@
 ### Full-Stack Developer • Product Builder • Tech Explorer
 
 I turn ideas into real, functional and scalable products — fast.  
-Right now I'm building **Haze-Nexus**, my freelance platform where I mix  
-modern web development with mobile-first experiences.
+Right now I'm building **Haze-Nexus**, freelance platform where I mix  
+modern web development.
 
 ## ⚡ About Me
 
 🔹 I learn by building — always shipping, experimenting and improving.
-🔹 Focused on JavaScript, TypeScript, React, React Native & Node.js.
+🔹 Focused on TypeScript, React, Next.Js, Node.js & NestJs.
 🔹 Obsessed with performance, clean UI and seamless user experience.
 🔹 Currently growing my freelance presence and digital portfolio.
 
@@ -19,14 +19,14 @@ modern web development with mobile-first experiences.
 
 ```ts
 class Developer {
-name: string = "Rubens Golfetto";
-role: string = "Front End Developer";
-languages: string[] = ["pt_BR", "en_US"];
-stack: string[] = ["TypeScript", "React", "React Native", "JavaScript"];
+  name: string = "Rubens Golfetto";
+  role: string = "Full Stack Developer";
+  languages: string[] = ["pt_BR", "en_US"];
+  stack: string[] = ["JavaScript", "TypeScript", "React", "Next.Js", "NodeJs", "NestJS"];
 
-sayHi(): void {
+  sayHi(): void {
     console.log("Welcome to my GitHub —take a look around! 🚀");
-    }
+  }
 }
 
 new Developer().sayHi();
@@ -39,15 +39,19 @@ new Developer().sayHi();
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAA6?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ## ⚙️ GitHub Analytics
 
-[![Rubens's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=rubensgolfett&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/rubensgolfett#gh-light-mode-only)
-[![Rubens's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rubensgolfett&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/rubensgolfett#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rubensgolfett&theme=one-dark-pro&border_radius=5&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgolfett&layout=compact&theme=default#gh-light-mode-only)](https://github.com/rubensgolfett#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubensgolfett&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/rubensgolfett#gh-dark-mode-only)
+## 🎨 Open to Collaborate
+
+💡 Have an idea? Let's build it together.  
+🤝 Open to freelance projects, partnerships & tech discussions.
 
 ## 📬 Let’s Connect!
 
